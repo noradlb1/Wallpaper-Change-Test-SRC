@@ -1,0 +1,9 @@
+C:\Users\MONSTERMC\Downloads\VideoWallpaper-master\VideoWallpaper-master\VideoWallpaper\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\MONSTERMC\Downloads\VideoWallpaper-master\VideoWallpaper-master\VideoWallpaper\obj\Debug\Interop.WMPLib.dll
+C:\Users\MONSTERMC\Downloads\VideoWallpaper-master\VideoWallpaper-master\VideoWallpaper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MONSTERMC\Downloads\VideoWallpaper-master\VideoWallpaper-master\VideoWallpaper\obj\Debug\VideoWallpaper.vbproj.ResolveComReference.cache
+C:\Users\MONSTERMC\Downloads\VideoWallpaper-master\VideoWallpaper-master\VideoWallpaper\obj\Debug\VideoWallpaper.WallpaperForm.resources
+C:\Users\MONSTERMC\Downloads\VideoWallpaper-master\VideoWallpaper-master\VideoWallpaper\obj\Debug\VideoWallpaper.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\VideoWallpaper-master\VideoWallpaper-master\VideoWallpaper\obj\Debug\VideoWallpaper.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\VideoWallpaper-master\VideoWallpaper-master\VideoWallpaper\obj\Debug\VideoWallpaper.exe
+C:\Users\MONSTERMC\Downloads\VideoWallpaper-master\VideoWallpaper-master\VideoWallpaper\obj\Debug\VideoWallpaper.pdb
